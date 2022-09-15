@@ -16,7 +16,7 @@
             echo "B";
             echo "C";
 
-            echo "<strong>This is a bold text.</strong><br/>"
+            
         ?>
 
     </body>
