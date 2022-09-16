@@ -8,15 +8,7 @@
 
         <?php
             echo "Hello World PHP! <br/>";
-            echo "Welcome, I'm a PHP script! <br/>";
-            
-            echo "I love PHP! <br/>"
-
-            echo "A";
-            echo "B";
-            echo "C";
-
-            
+            echo "Welcome, I'm a PHP script!";           
         ?>
 
     </body>
